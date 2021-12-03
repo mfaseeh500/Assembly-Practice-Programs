@@ -29,7 +29,7 @@ main proc
    
    mov si,offset myArr
    
-   mov cx, ax
+   mov cx, sc
    
    printn ""
    
